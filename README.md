@@ -4,9 +4,9 @@
 ** I'm ebrahim khodadadi - Junior Developer**
 
 - 🔭 I’m currently working on asp.net core
-- 🌱 I’m currently learning flutter and Angular
+- 🌱 I’m currently learning Vue.js & Nuxt
 - 👯 I’m looking to collaborate on .net core project
-- 🤔 I’m looking for help with flutter projects
+- 🤔 I’m looking for help with Solidity
 - 📫 How to reach me: ebrahimkhodadadiDeveloper@gmail.com
 
 
