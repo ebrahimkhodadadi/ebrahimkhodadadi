@@ -4,8 +4,8 @@
 ** I'm ebrahim khodadadi - Junior Developer**
 
 - 🔭 I’m currently working on asp.net core
-- 🌱 I’m currently learning Vue.js & Nuxt
-- 👯 I’m looking to collaborate on .net core project
+- 🌱 I’m currently learning golang & solidity
+- 👯 I’m looking to collaborate on golang project
 - 🤔 I’m looking for help with Solidity
 - 📫 How to reach me: ebrahimkhodadadiDeveloper@gmail.com
 
