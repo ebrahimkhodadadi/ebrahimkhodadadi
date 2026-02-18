@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Ebrahim%20Khodadadi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20Developer%20%7C%20System%20Architect%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Ebrahim%20Khodadadi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+robust+backend+systems+%F0%9F%9A%80;ASP.NET+Core+%7C+Go+%7C+Python+Developer;1100%2B+contributions+this+year+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=C%23+%7C+Go+%7C+Python+%7C+Next.js+%7C+Flutter+%7C+Solidity;Building+scalable+systems+%26+dApps+%F0%9F%9A%80;1100%2B+contributions+this+year+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE VIEWS & SOCIAL -->
@@ -33,9 +33,10 @@ open_to_collaborate: Golang & Open Source projects
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimkhodadadi&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="280"/>
 
-- 🔭 Currently building scalable systems with **ASP.NET Core**
+- 🔭 Currently building scalable systems with **ASP.NET Core** & **Next.js**
 - 🐹 Working with **Go** for high-performance microservices
-- 🐍 Building **trading bots** & automation tools with Python
+- 📱 Building cross-platform apps with **Flutter**
+- 🐍 Building **trading bots** & automation tools with **Python**
 - 🌱 Exploring **Solidity** and Web3 development
 - 🏢 Contributing to [**minisource**](https://github.com/minisource) & [**DiviPays**](https://github.com/DiviPays)
 - 📫 Reach me: **ebrahimkhodadadiDeveloper@gmail.com**
@@ -53,11 +54,14 @@ open_to_collaborate: Golang & Open Source projects
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Backend & Frameworks
+### Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -73,8 +77,6 @@ open_to_collaborate: Golang & Open Source projects
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
-
-> 💡 **Note:** Edit the tech stack badges above — remove any you don't use and add ones you do!
 
 ---
 
@@ -93,32 +95,14 @@ open_to_collaborate: Golang & Open Source projects
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ebrahimkhodadadi/SignalTrader">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebrahimkhodadadi&repo=SignalTrader&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
-</a>
-<a href="https://github.com/ebrahimkhodadadi/BulkMemberAdder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebrahimkhodadadi&repo=BulkMemberAdder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
-</a>
-<a href="https://github.com/ebrahimkhodadadi/MizitoForwarder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebrahimkhodadadi&repo=MizitoForwarder&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
-</a>
-<a href="https://github.com/ebrahimkhodadadi/RSACryptoSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ebrahimkhodadadi&repo=RSACryptoSystem&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
-</a>
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebrahimkhodadadi&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ebrahimkhodadadi&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%"/>
 </div>
+
+<!-- If trophies don't load, the free vercel instance may be rate-limited. You can deploy your own:
+     https://github.com/ryo-ma/github-profile-trophy#about-rank -->
 
 ---
 
@@ -131,6 +115,10 @@ open_to_collaborate: Golang & Open Source projects
     <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
+
+<!-- Snake will appear after you run the workflow manually for the first time:
+     Go to: https://github.com/ebrahimkhodadadi/ebrahimkhodadadi/actions/workflows/snake.yml
+     Click "Run workflow" → "Run workflow" -->
 
 ---
 
