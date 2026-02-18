@@ -9,10 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: ebrahimkhodadadi
           BRANCH_NAME: output
-          UTC_OFFSET: "+03:30"
+          UTC_OFFSET: "8"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
