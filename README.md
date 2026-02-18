@@ -31,7 +31,7 @@ learning: Golang | Solidity | Blockchain
 open_to_collaborate: Golang & Open Source projects
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimkhodadadi&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="280"/>
 
 - 🔭 Currently building scalable systems with **ASP.NET Core** & **Next.js**
 - 🐹 Working with **Go** for high-performance microservices
@@ -84,25 +84,21 @@ open_to_collaborate: Golang & Open Source projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebrahimkhodadadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ebrahimkhodadadi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" />
+
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahimkhodadadi&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="98%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebrahimkhodadadi&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebrahimkhodadadi&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="98%"/>
-</div>
-
-<!-- If trophies don't load, the free vercel instance may be rate-limited. You can deploy your own:
-     https://github.com/ryo-ma/github-profile-trophy#about-rank -->
 
 ---
 
@@ -128,7 +124,7 @@ open_to_collaborate: Golang & Open Source projects
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebrahimkhodadadiDeveloper@gmail.com)
 [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](http://ebrahimkhodadadi.ir/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ebrahimkhodadadi.ir/linkedin.com/in/ebrahim-khodadadi-316b59236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-khodadadi-316b59236)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ebrahimkhodadadi)
 
 </div>
