@@ -31,7 +31,7 @@ learning: Golang | Solidity | Blockchain
 open_to_collaborate: Golang & Open Source projects
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="280"/>
+<img align="right" src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="280"/>
 
 - 🔭 Currently building scalable systems with **ASP.NET Core** & **Next.js**
 - 🐹 Working with **Go** for high-performance microservices
@@ -84,13 +84,13 @@ open_to_collaborate: Golang & Open Source projects
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" />
 
-<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
 
-<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
 
 </div>
 
