@@ -26,9 +26,9 @@ name: Ebrahim Khodadadi
 role: Developer
 website: ebrahimkhodadadi.ir
 
-currently_working_on: golang & solidity & blockchain
-learning: Golang | Solidity | Blockchain
-open_to_collaborate: Golang & Open Source projects
+currently_working_on: golang & solidity & blockchain & typescript
+learning: Golang | Solidity | Blockchain | TypeScript | Csharp | MQL
+open_to_collaborate: Open Source projects
 ```
 
 <img align="right" src="https://raw.githubusercontent.com/ebrahimkhodadadi/ebrahimkhodadadi/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="280"/>
@@ -38,6 +38,7 @@ open_to_collaborate: Golang & Open Source projects
 - 📱 Building cross-platform apps with **Flutter**
 - 🐍 Building **trading bots** & automation tools with **Python**
 - 🌱 Exploring **Solidity** and Web3 development
+ - 💻 Writing frontend & server-side apps with **TypeScript** (Next.js / Node.js)
 - 🏢 Contributing to [**minisource**](https://github.com/minisource) & [**DiviPays**](https://github.com/DiviPays)
 - 📫 Reach me: **ebrahimkhodadadiDeveloper@gmail.com**
 
